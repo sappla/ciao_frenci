@@ -1,0 +1,27 @@
+body {
+  background-color: lightgreen;
+  color: lightgreen;
+  font-family: Helvetica;
+  text-align: center;
+}
+
+.line {
+  height: 35px;
+  background-color: white;
+  padding: 50px 0 75px 0;
+  opacity: .75;
+}
+
+h1 {
+  font-size: 100px;
+  background-color: white;
+  padding: 50px;
+  opacity: .75;
+}
+
+#btn-love a {
+  text-decoration: none;
+  padding: 20px 50px;
+  background-color: lightgreen;
+  color: white;
+}
